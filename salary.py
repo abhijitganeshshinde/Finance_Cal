@@ -1,4 +1,5 @@
 # Calculate the yearly salary with adjusted holidays and vacations
+
 salary = int(input("Enter the salary amount per Hour: "))
 hoursPerWeek = 40
 daysPerWeek = 5
